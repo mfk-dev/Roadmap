@@ -7,6 +7,7 @@ What have i learnt today?
 
 -What is HTML? 
 -What does it exactly do? 
+-What is W3C? Why is it built for?
 -Basic document structure 
 -Text formatting tags -Links and anchors
 -Images and attributes 
