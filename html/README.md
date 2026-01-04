@@ -24,8 +24,6 @@ I need to learn:
 -Lists (ordered/unordered)
 -Basic tables
 -Forms and inputs
--HTML entities
--Comments
 
 **-Intermediate Level-**
 -Semantic HTML5 tags
