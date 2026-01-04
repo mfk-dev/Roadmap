@@ -15,6 +15,7 @@ What have i learnt today?
 -Forms and inputs
 
 **I have also made a HTML file that contains things i've done with the things i learnt today, but i will push it tomorrow, 05/01/2026.**
+**The html file will be named 'summary.html'"
 
 **---------------**
 
