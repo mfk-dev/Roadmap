@@ -10,15 +10,16 @@ What have i learnt today?
 -What is W3C? Why is it built for?
 -Basic document structure 
 -Text formatting tags -Links and anchors
--Images and attributes 
--Lists (ordered/unordered) 
+-Images
+-Media Tags
+-Lists
 -Basic tables
+-Iframe
 -Forms and inputs
 
-**I have also made a HTML file that contains things i've done with the things i learnt today, but i will push it tomorrow, 05/01/2026.**
-**The html file will be named 'summary.html'"
+**I have also created some HTML files that contains things i've done with the things i learnt today, but i will push them tomorrow, 05/01/2026.**
+**The html files will be named **'summary_one.html', 'summary_two.html', 'summary_three.html'**
 
 **---------------**
 
-## Basically, i've finished HTML beginner level things.
-# Next, Intermediate Level.
+# Next, Day 2.
