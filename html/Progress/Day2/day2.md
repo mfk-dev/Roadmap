@@ -18,7 +18,7 @@ What have i learnt today?
 **---------------**
 
 **I have also built a HTML project to prove that now i understand and know HTML.**
-**That html project files name is: **'html_checkpoint.html'** and it takes place in: 'Roadmap/Checkpoints'**
+**That html project files name is: **'html_checkpoint.html'** and it takes place in: 'Roadmap/Checkpoints/HTML'**
 
 **---------------**
 
