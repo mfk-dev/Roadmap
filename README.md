@@ -3,6 +3,8 @@
 
 ### -HTML (HyperText Markup Language)
   -It is used on the frontend and gives the structure to the webpage which you can style using **CSS** and make interactive using **JavaScript**.
+
+When i finish **HTML**, i will make a little website to verify that i now understand **HTML**.
   
 ### -CSS (Cascading Style Sheets)
   -It is a language that is used to style the **frontend** of any website. 
