@@ -14,8 +14,11 @@ What have i learnt today?
 
 **So basically, we can say that now i finished HTML.**
 **I have created a HTML file about some of the things i learned today, it is named **'summary.html'**
+
+**---------------**
+
 **I have also built a HTML project to prove that now i understand and know HTML.**
-**That html project files name is: **'html_checkpoint.html'** and it takes place in: 'Roadmap/html'**
+**That html project files name is: **'html_checkpoint.html'** and it takes place in: 'Roadmap/Checkpoints'**
 
 **---------------**
 
