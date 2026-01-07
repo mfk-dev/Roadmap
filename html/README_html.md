@@ -4,6 +4,10 @@
 
 **---------------------------------------------------------------------**
 
+**This will be easy because i used to know a little part of before, but i forgot most of them and i dont know most of them.**
+
+**---------------------------------------------------------------------**
+
 **Well,** **HTML** *(HyperText Markup Language)* is the standard markup language for creating *web pages*. 
 It provides the structure and content of a webpage, which is then styled with **CSS** and made interactive with **JavaScript**.
 So basically, **HTML** is the skeleton, **CSS** is the skin, **JavaScript** is the muscles.
