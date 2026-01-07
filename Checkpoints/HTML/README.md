@@ -7,6 +7,7 @@
 ## And:
 
 -This project was made in **2 hours** after learning **HTML** in 2 days.
+-BUT, **This was easy because i used to know a little part of before, but i forgot most of them and i didnt know most of them either.**
 
 ## Finally:
 
@@ -16,5 +17,6 @@
 
 **See You!**
 **-MFK-Dev**
+
 
 
