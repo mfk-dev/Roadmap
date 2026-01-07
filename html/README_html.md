@@ -36,19 +36,10 @@ I need to learn:
 -HTML5 input types
 -Data attributes
 
-**-Advanced Level-**
--Canvas API basics
--SVG implementation
--Web Components basics
--Drag and Drop API
--LocalStorage/SessionStorage
--Advanced accessibility (ARIA roles)
--SEO optimization tags
--Microdata/Schema.org
--Performance optimizatio
--Security best practices
-
 **Basically: Learn theory → Build projects → Repeat.**
+
+
+**---------------------------------------------------------------------**
 
 ## And...
 # CONGRATS!
