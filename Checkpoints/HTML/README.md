@@ -2,7 +2,7 @@
 
 ## First Of All:
 
--This is a checkpoint-project to prove that i now know and understand HTML **properly** and correctly.
+-This is a checkpoint-project to prove that i now know and understand HTML **properly** and **correctly**.
 
 ## And:
 
@@ -16,4 +16,5 @@
 
 **See You!**
 **-MFK-Dev**
+
 
